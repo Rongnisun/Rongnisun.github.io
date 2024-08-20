@@ -11,6 +11,11 @@ div{
  
 }
 img{
-  width: 30px;
-  height: 35px;
+  width: 300px;
+  height: 350px;
+}
+.tr{
+  width: 200px;
+  height: 200px;
+  margin-left: 200px;
 }
