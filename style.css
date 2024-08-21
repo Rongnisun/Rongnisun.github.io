@@ -19,3 +19,9 @@ img{
   height: 200px;
   margin-left: 200px;
 }
+.wos{
+  width: 85%;
+  height: 100%;
+  background-color: #222;
+  color: white;
+}
