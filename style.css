@@ -15,9 +15,8 @@ img{
   height: 200px;
 }
 .tr{
-  width: 150px;
-  height: 150px;
-  margin-left: 200px;
+  float: right;
+  width: 40%;
   color: white;
 }
 .wos{
